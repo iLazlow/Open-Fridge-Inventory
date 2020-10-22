@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Open Fridge Inventory</string>
+    <string name="change_setup">Server ändern</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="scan_setup_code">Installcode scannen</string>
+    <string name="number">Anzahl</string>
+    <string name="rec_number">Empfohlene Anzahl</string>
+    <string name="last_updated">Zuletzt aktualisiert: %1$s</string>
+    <string name="store_in">Einlagern</string>
+    <string name="store_out">Auslagern</string>
+    <string name="dialog_saved">Gegenstand gespeichert</string>
+    <string name="dialog_saved_msg">Der Gegenstand mit dem EAN: %1$s wurde erfolgreich gespeichert.</string>
+    <string name="dialog_removed">Gegenstand entfernt</string>
+    <string name="dialog_removed_msg">Der Gegenstand mit dem EAN: %1$s wurde erfolgreich entfernt.</string>
+    <string name="title_activity_setup">Servereinrichtung</string>
+    <string name="api_url_title">Ihre Server URL:</string>
+    <string name="api_url_field">https://</string>
+    <string name="api_key_title">Ihren API Schlüssel:</string>
+    <string name="api_key_field" />
+    <string name="finish_setup">Einrichtung abschließen</string>
+</resources>
